@@ -25,11 +25,10 @@ MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 TitleInitial=Linux Lite Terminal
 ShortcutsNoMenukey=TRUE
-FontName=Bahnschrift Light 18
+FontName=Droid Sans Mono 16
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 MiscShowRelaunchDialog=TRUE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 BackgroundDarkness=0.890000
-FontUseSystem=TRUE
 

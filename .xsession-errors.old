@@ -35,29 +35,29 @@ dbus-update-activation-environment: setting GDMSESSION=xfce
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
 /usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
-xfce4-session-Message: 07:09:40.672: SSH authentication agent is already running
-gpg-agent[2031]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+xfce4-session-Message: 14:44:58.204: SSH authentication agent is already running
+gpg-agent[2186]: WARNING: "--write-env-file" is an obsolete option - it has no effect
 gpg-agent: a gpg-agent is already running - not starting a new one
 
-(xfce4-session:1993): xfce4-session-WARNING **: 07:09:40.679: gpg-agent returned no PID in the variables
+(xfce4-session:2148): xfce4-session-WARNING **: 14:44:58.217: gpg-agent returned no PID in the variables
 
-(xfce4-session:1993): xfce4-session-WARNING **: 07:09:40.682: xfsm_manager_load_session: Something wrong with /home/osboxes/.cache/sessions/xfce4-session-osboxes:0, Does it exist? Permissions issue?
+(xfce4-session:2148): xfce4-session-WARNING **: 14:44:58.222: xfsm_manager_load_session: Something wrong with /home/osboxes/.cache/sessions/xfce4-session-osboxes:0, Does it exist? Permissions issue?
 
-(xfwm4:2034): xfwm4-WARNING **: 07:09:41.027: Unsupported GL renderer (llvmpipe (LLVM 12.0.0, 256 bits)).
+(xfwm4:2189): xfwm4-WARNING **: 14:44:58.733: Unsupported GL renderer (llvmpipe (LLVM 12.0.0, 256 bits)).
 
-(wrapper-2.0:2065): Gtk-WARNING **: 07:09:43.902: gtk_widget_size_allocate(): attempt to allocate widget with width -1 and height 28
+(wrapper-2.0:2218): Gtk-WARNING **: 14:45:02.238: gtk_widget_size_allocate(): attempt to allocate widget with width -1 and height 28
 
-(wrapper-2.0:2068): Gtk-WARNING **: 07:09:43.997: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+(wrapper-2.0:2220): Gtk-WARNING **: 14:45:02.399: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
 
-(wrapper-2.0:2063): Gtk-WARNING **: 07:09:44.057: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+(wrapper-2.0:2216): Gtk-WARNING **: 14:45:02.535: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
 
-(wrapper-2.0:2066): Gtk-WARNING **: 07:09:44.464: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+(wrapper-2.0:2219): Gtk-WARNING **: 14:45:02.870: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
 Playing WAVE '/usr/share/sounds/Lite/stereo/startupsound.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
 
-** (xfce4-screensaver:2104): WARNING **: 07:09:47.230: screensaver already running in this session
+** (xfce4-screensaver:2256): WARNING **: 14:45:06.078: screensaver already running in this session
 
-(polkit-gnome-authentication-agent-1:2115): GLib-CRITICAL **: 07:09:47.230: g_variant_new_string: assertion 'string != NULL' failed
+(polkit-gnome-authentication-agent-1:2263): GLib-CRITICAL **: 14:45:06.083: g_variant_new_string: assertion 'string != NULL' failed
 
-(polkit-gnome-authentication-agent-1:2115): polkit-gnome-1-WARNING **: 07:09:47.232: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+(polkit-gnome-authentication-agent-1:2263): polkit-gnome-1-WARNING **: 14:45:06.083: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 
-(package-update-indicator:2100): Gdk-CRITICAL **: 07:09:47.733: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+(package-update-indicator:2249): Gdk-CRITICAL **: 14:45:06.707: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed

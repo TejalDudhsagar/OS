@@ -10,11 +10,16 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~Msle0~/\<include\>
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1654344161,,"wq"
+|2,0,1654858174,,"wq"
 
 # Search String History (newest to oldest):
+? \<include\>
+|2,1,1654856009,,"\\<include\\>"
 
 # Expression History (newest to oldest):
 
@@ -23,60 +28,631 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	p
+|3,1,36,0,1,0,1654532288,"p"
 
 # File marks:
-'0  2  0  ~/README.md
-|4,48,2,0,1654344161,"~/README.md"
-'1  5  0  ~/OS/hello.c
-|4,49,5,0,1654343898,"~/OS/hello.c"
-'2  1  1  ~/hello.c
-|4,50,1,1,1654083455,"~/hello.c"
-'3  1  0  ~/hello.c
-|4,51,1,0,1654083024,"~/hello.c"
-'4  1  0  ~/hello.c
-|4,52,1,0,1654082946,"~/hello.c"
-'5  1  0  ~/hello.c
-|4,53,1,0,1654082946,"~/hello.c"
+'0  4  6  ~/OS/LinuxProgram/div.c
+|4,48,4,6,1654858174,"~/OS/LinuxProgram/div.c"
+'1  15  16  ~/OS/LinuxProgram/main.c
+|4,49,15,16,1654857758,"~/OS/LinuxProgram/main.c"
+'2  15  16  ~/OS/LinuxProgram/main.c
+|4,50,15,16,1654857747,"~/OS/LinuxProgram/main.c"
+'3  1  0  ~/add.c
+|4,51,1,0,1654857036,"~/add.c"
+'4  5  1  ~/OS/LinuxProgram/main.c
+|4,52,5,1,1654856775,"~/OS/LinuxProgram/main.c"
+'5  5  1  ~/OS/LinuxProgram/main.c
+|4,53,5,1,1654856775,"~/OS/LinuxProgram/main.c"
+'6  5  1  ~/OS/LinuxProgram/main.c
+|4,54,5,1,1654856775,"~/OS/LinuxProgram/main.c"
+'7  5  1  ~/OS/LinuxProgram/main.c
+|4,55,5,1,1654856775,"~/OS/LinuxProgram/main.c"
+'8  28  0  ~/OS/LinuxProgram/main.c
+|4,56,28,0,1654856720,"~/OS/LinuxProgram/main.c"
+'9  28  0  ~/OS/LinuxProgram/main.c
+|4,57,28,0,1654856720,"~/OS/LinuxProgram/main.c"
 
 # Jumplist (newest first):
--'  2  0  ~/README.md
-|4,39,2,0,1654344161,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1654344117,"~/README.md"
--'  5  0  ~/OS/hello.c
-|4,39,5,0,1654343898,"~/OS/hello.c"
--'  5  0  ~/OS/hello.c
-|4,39,5,0,1654343898,"~/OS/hello.c"
--'  1  0  ~/OS/hello.c
-|4,39,1,0,1654343804,"~/OS/hello.c"
--'  1  0  ~/OS/hello.c
-|4,39,1,0,1654343804,"~/OS/hello.c"
--'  1  1  ~/hello.c
-|4,39,1,1,1654083455,"~/hello.c"
--'  1  1  ~/hello.c
-|4,39,1,1,1654083455,"~/hello.c"
--'  1  1  ~/hello.c
-|4,39,1,1,1654083455,"~/hello.c"
--'  1  1  ~/hello.c
-|4,39,1,1,1654083455,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1654083024,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1654083024,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1654083024,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1654083024,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1654082946,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1654082946,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1654082946,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1654082946,"~/hello.c"
+-'  4  6  ~/OS/LinuxProgram/div.c
+|4,39,4,6,1654858174,"~/OS/LinuxProgram/div.c"
+-'  3  2  ~/OS/LinuxProgram/div.c
+|4,39,3,2,1654858152,"~/OS/LinuxProgram/div.c"
+-'  15  16  ~/OS/LinuxProgram/main.c
+|4,39,15,16,1654857758,"~/OS/LinuxProgram/main.c"
+-'  15  16  ~/OS/LinuxProgram/main.c
+|4,39,15,16,1654857758,"~/OS/LinuxProgram/main.c"
+-'  15  16  ~/OS/LinuxProgram/main.c
+|4,39,15,16,1654857747,"~/OS/LinuxProgram/main.c"
+-'  15  16  ~/OS/LinuxProgram/main.c
+|4,39,15,16,1654857747,"~/OS/LinuxProgram/main.c"
+-'  5  1  ~/OS/LinuxProgram/main.c
+|4,39,5,1,1654857540,"~/OS/LinuxProgram/main.c"
+-'  5  1  ~/OS/LinuxProgram/main.c
+|4,39,5,1,1654857540,"~/OS/LinuxProgram/main.c"
+-'  5  1  ~/OS/LinuxProgram/main.c
+|4,39,5,1,1654857540,"~/OS/LinuxProgram/main.c"
+-'  5  1  ~/OS/LinuxProgram/main.c
+|4,39,5,1,1654857540,"~/OS/LinuxProgram/main.c"
+-'  1  0  ~/add.c
+|4,39,1,0,1654857036,"~/add.c"
+-'  1  0  ~/add.c
+|4,39,1,0,1654857036,"~/add.c"
+-'  1  0  ~/add.c
+|4,39,1,0,1654857036,"~/add.c"
+-'  1  0  ~/add.c
+|4,39,1,0,1654857036,"~/add.c"
+-'  1  0  ~/add.c
+|4,39,1,0,1654857036,"~/add.c"
+-'  1  0  ~/add.c
+|4,39,1,0,1654857036,"~/add.c"
+-'  1  0  ~/add.c
+|4,39,1,0,1654857036,"~/add.c"
+-'  1  0  ~/add.c
+|4,39,1,0,1654857036,"~/add.c"
+-'  5  1  ~/OS/LinuxProgram/main.c
+|4,39,5,1,1654856775,"~/OS/LinuxProgram/main.c"
+-'  5  1  ~/OS/LinuxProgram/main.c
+|4,39,5,1,1654856775,"~/OS/LinuxProgram/main.c"
+-'  5  1  ~/OS/LinuxProgram/main.c
+|4,39,5,1,1654856775,"~/OS/LinuxProgram/main.c"
+-'  5  1  ~/OS/LinuxProgram/main.c
+|4,39,5,1,1654856775,"~/OS/LinuxProgram/main.c"
+-'  28  0  ~/OS/LinuxProgram/main.c
+|4,39,28,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  28  0  ~/OS/LinuxProgram/main.c
+|4,39,28,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  28  0  ~/OS/LinuxProgram/main.c
+|4,39,28,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  28  0  ~/OS/LinuxProgram/main.c
+|4,39,28,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856746,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856720,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856720,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856720,"~/OS/LinuxProgram/main.c"
+-'  19  0  ~/OS/LinuxProgram/main.c
+|4,39,19,0,1654856720,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856685,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856652,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856652,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856652,"~/OS/LinuxProgram/main.c"
+-'  6  17  ~/OS/LinuxProgram/main.c
+|4,39,6,17,1654856652,"~/OS/LinuxProgram/main.c"
+-'  26  23  ~/OS/LinuxProgram/main.c
+|4,39,26,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  26  23  ~/OS/LinuxProgram/main.c
+|4,39,26,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  26  23  ~/OS/LinuxProgram/main.c
+|4,39,26,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  26  23  ~/OS/LinuxProgram/main.c
+|4,39,26,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  17  23  ~/OS/LinuxProgram/main.c
+|4,39,17,23,1654856528,"~/OS/LinuxProgram/main.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
+-'  10  15  ~/OS/LinuxProgram/sub.c
+|4,39,10,15,1654856248,"~/OS/LinuxProgram/sub.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/OS/LinuxProgram/div.c
+	*	1654858170	0
+	"	4	6
+	^	4	7
+	.	4	6
+	+	10	13
+	+	9	12
+	+	8	40
+	+	7	1
+	+	6	4
+	+	5	2
+	+	6	7
+	+	3	0
+	+	2	0
+	+	5	14
+	+	6	20
+	+	7	26
+	+	3	0
+	+	4	6
+
+> ~/OS/LinuxProgram/main.c
+	*	1654857750	0
+	"	15	16
+	^	15	17
+	.	15	16
+	+	29	0
+	+	2	0
+	+	1	7
+	+	28	0
+	+	26	16
+	+	27	5
+	+	21	14
+	+	20	12
+	+	21	17
+	+	23	16
+	+	24	30
+	+	26	13
+	+	27	27
+	+	20	20
+	+	23	24
+	+	26	23
+	+	4	0
+	+	6	17
+	+	20	1
+	+	28	0
+	+	5	0
+	+	19	0
+	+	15	15
+	+	12	6
+	+	15	16
+
+> ~/add.c
+	*	1654857029	0
+	"	1	0
+
+> ~/OS/LinuxProgram/sub.c
+	*	1654856245	0
+	"	10	15
+	^	1	7
+	.	1	6
+	+	10	0
+	+	9	13
+	+	4	6
+	+	5	13
+	+	8	31
+	+	7	0
+	+	5	0
+	+	7	1
+	+	8	0
+	+	9	1
+	+	10	9
+	+	1	7
+	+	6	0
+	+	7	7
+	+	6	7
+	+	8	9
+	+	9	11
+	+	10	13
+	+	1	6
+
+> ~/OS/LinuxProgram/mul.c
+	*	1654855949	0
+	"	6	40
+	^	6	40
+	.	6	39
+	+	6	1
+	+	4	0
+	+	8	15
+	+	6	39
+
+> ~/OS/LinuxProgram/add.c
+	*	1654853317	0
+	"	10	0
+	^	10	0
+	.	9	1
+	+	9	1
+
+> ~/.bashrc
+	*	1654685505	0
+	"	1	0
+
+> ~/Day1P1.c
+	*	1654683135	0
+	"	1	0
+
+> ~/OS/LinuxProgram/Day1P1.c
+	*	1654681282	0
+	"	1	0
+
+> ~/OS/Linux Program/Day1P1.c
+	*	1654680351	0
+	"	13	0
+	^	13	0
+	.	13	0
+	+	13	0
+
+> ~/OS/Day1P1.c
+	*	1654680196	0
+	"	1	0
+
+> ~/OS/Linux Program/Day3Q2.c
+	*	1654574504	0
+	"	16	0
+	^	16	1
+	.	16	0
+	+	16	0
+
+> ~/OS/Linux Program/Day3Q1.c
+	*	1654574148	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	16	5
+	+	16	0
+	+	15	0
+	+	14	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	9	0
+	+	8	0
+	+	7	0
+	+	6	0
+	+	5	0
+	+	4	0
+
+> ~/OS/Linux Program/Day2P7.c
+	*	1654573750	0
+	"	29	12
+	^	29	13
+	.	29	13
+	+	32	212
+	+	28	937
+	+	14	2
+	+	13	2
+	+	15	1
+	+	16	21
+	+	17	3
+	+	18	3
+	+	19	3
+	+	20	3
+	+	22	5
+	+	21	2
+	+	23	4
+	+	22	59
+	+	24	3
+	+	24	63
+	+	24	93
+	+	25	21
+	+	27	4
+	+	26	0
+	+	28	85
+	+	27	29
+	+	28	6
+	+	28	334
+	+	28	549
+	+	28	936
+	+	31	6
+	+	28	712
+	+	28	557
+	+	30	11
+	+	28	338
+	+	28	288
+	+	29	13
+
+> ~/OS/Linux Program/Day2Q7.c
+	*	1654572254	0
+	"	24	45
+	^	32	217
+	.	24	45
+	+	32	216
+	+	25	112
+	+	24	45
+
+> ~/OS/Linux Program/Day2P6.c
+	*	1654571426	0
+	"	12	0
+	^	12	1
+	.	12	1
+	+	25	1
+	+	24	1
+	+	23	1
+	+	22	1
+	+	20	1
+	+	21	1
+	+	19	1
+	+	18	1
+	+	17	1
+	+	16	1
+	+	15	1
+	+	14	9
+	+	13	1
+	+	12	1
+
+> ~/OS/Linux Program/Day2q5.c
+	*	1654570914	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	24	0
+	+	23	0
+	+	22	0
+	+	21	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	15	0
+	+	14	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	8	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	8	0
+	+	6	0
+	+	5	0
+	+	4	0
+	+	2	17
+	+	3	0
+
+> ~/OS/Linux Program/Day2Q4.c
+	*	1654570478	0
+	"	8	0
+	^	8	1
+	.	8	1
+	+	15	1
+	+	14	1
+	+	12	1
+	+	13	1
+	+	11	1
+	+	10	1
+	+	9	1
+	+	8	1
+
+> ~/OS/Linux Program/Day2A2.c
+	*	1654554015	0
+	"	31	0
+	^	31	1
+	.	31	0
+	+	31	0
+
+> ~/OS/Linux Program/Day2A1.c
+	*	1654552958	0
+	"	35	42
+	^	35	43
+	.	35	42
+	+	35	42
+
+> ~/OS/Linux Program/Day2P3.c
+	*	1654551972	0
+	"	40	29
+	^	40	30
+	.	40	29
+	+	40	29
+
+> ~/OS/Linux Program/Day2P2.c
+	*	1654550475	0
+	"	2	0
+	.	1	0
+	+	1	0
+
+> ~/OS/Linux Program/Day2P1.c
+	*	1654549913	0
+	"	24	11
+	^	24	12
+	.	24	12
+	+	29	73
+	+	25	1
+	+	11	5
+	+	12	9
+	+	18	8
+	+	22	10
+	+	24	0
+	+	23	19
+	+	12	17
+	+	24	12
+
+> ~/OS/Linux Program/Day1P3.c
+	*	1654548881	0
+	"	31	10
+	^	31	11
+	.	31	11
+	+	32	19
+	+	30	11
+	+	32	6
+	+	29	18
+	+	27	21
+	+	28	18
+	+	33	11
+	+	27	21
+	+	31	11
+
+> ~/OS/Linux Program/Day13.c
+	*	1654548493	0
+	"	1	0
+
+> ~/OS/Day12.c
+	*	1654547937	0
+	"	28	10
+	^	28	11
+	.	28	0
+	+	30	0
+	+	26	15
+	+	28	0
+
+> ~/OS/Linux Program/Day1P21.c
+	*	1654547176	0
+	"	29	10
+	^	29	11
+	.	29	0
+	+	29	0
+
+> ~/OS/Linux Program/Day1P2.c
+	*	1654545799	0
+	"	1	0
+	.	24	108
+	+	29	0
+	+	26	2
+	+	24	108
+
+> ~/OS/Day
+	*	1654545697	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/OS/threads/Threadeg.c
+	*	1654543148	0
+	"	41	21
+	^	47	5
+	.	30	26
+	+	41	16
+	+	4	0
+	+	19	9
+	+	14	13
+	+	10	25
+	+	17	52
+	+	8	21
+	+	11	0
+	+	15	1
+	+	16	7
+	+	15	0
+	+	17	6
+	+	41	0
+	+	37	0
+	+	41	22
+	+	19	7
+	+	20	9
+	+	21	3
+	+	22	8
+	+	23	10
+	+	41	0
+	+	36	0
+	+	41	0
+	+	41	24
+	+	25	0
+	+	45	18
+	+	47	0
+	+	25	26
+	+	43	27
+	+	34	0
+	+	18	0
+	+	17	18
+	+	33	45
+	+	4	19
+	+	6	0
+	+	1	0
+	+	30	26
 
 > ~/README.md
 	*	1654344151	0
